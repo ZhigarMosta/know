@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "SFProText-Regular";
+  src: url(../../Fonts/SFProText-Regular.ttf);
+}
+
+.wrapper_word {
+  display: flex;
+}
+
+.wrapper_word:not(:last-child) {
+  border-bottom: 1px solid #2d81e0;
+}
+
+.wrapperP {
+  min-width: 90px;
+  margin-bottom: 2px;
+  margin-top: 4px;
+}
+
+.word {
+  color: #2d81e0;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: "SFProText-Regular";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.input {
+  margin-top: 5px;
+}
+
+.translationWord {
+  color: #2d81e0;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: "SFProText-Regular";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  margin-left: 39px;
+  min-width: 120px;
+}

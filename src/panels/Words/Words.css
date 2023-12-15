@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "SF-Pro-Display-Regular";
+  src: url(../../Fonts/SF-Pro-Display-Regular.otf);
+}
+
+.text_title {
+  text-align: center;
+  font-size: 24px;
+  color: #2d81e0;
+  font-family: "SF-Pro-Display-Regular";
+  margin-top: 130px;
+}
+
+.btn_word {
+  margin: 0 auto;
+  padding: 0 12px;
+  margin-top: 139px;
+  padding: 25px;
+  max-width: 240px;
+  position: relative;
+}

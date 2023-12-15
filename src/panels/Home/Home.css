@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "SF-Pro-SFProText-Regular";
+  src: url(../../Fonts/SF-Pro-Display-Regular.otf);
+}
+
+.wrapper_btn {
+  margin: 0 auto;
+  padding: 0 12px;
+  max-width: 240px;
+  margin-top: 100px;
+}
+
+.wrapper_logo {
+  display: flex;
+  justify-content: center;
+  margin-top: 67.2px;
+}
+
+.logo_main {
+  width: 307px;
+  height: 203px;
+}
+
+.name_application {
+  text-align: center;
+  font-size: 42px;
+  color: #2d81e0;
+  margin: 0;
+  margin-top: 27px;
+  font-family: "SF-Pro-SFProText-Regular";
+}

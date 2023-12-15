@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35e22073.css",
+    "main.js": "/static/js/main.69c4441d.js",
+    "static/media/SFProText-Regular.ttf": "/static/media/SFProText-Regular.90da7ab18293ca42e335.ttf",
+    "static/media/SF-Pro-Display-Regular.otf": "/static/media/SF-Pro-Display-Regular.d1f5e6e16dd4f75c3950.otf",
+    "static/media/logo.svg": "/static/media/logo.984697e7d7d5683751a5f71e6f910bc1.svg",
+    "index.html": "/index.html",
+    "static/media/six.svg": "/static/media/six.91b986a93f77b139b635499e06f4ae70.svg",
+    "static/media/five.svg": "/static/media/five.a97744e1005c3fa01cbf6ca1002f9bc2.svg",
+    "static/media/four.svg": "/static/media/four.1368d405b7a43807712a530a57444c5b.svg",
+    "static/media/three.svg": "/static/media/three.ec73364937a87d47574e798f841ae1d6.svg",
+    "static/media/two.svg": "/static/media/two.9b34ff31d565d55eb928ecc07356d8d3.svg",
+    "static/media/one.svg": "/static/media/one.d1875fc95a5c545c17cf0b9132a724b4.svg",
+    "main.35e22073.css.map": "/static/css/main.35e22073.css.map",
+    "main.69c4441d.js.map": "/static/js/main.69c4441d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35e22073.css",
+    "static/js/main.69c4441d.js"
+  ]
+}

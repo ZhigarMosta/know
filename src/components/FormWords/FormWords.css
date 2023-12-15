@@ -1,0 +1,60 @@
+.wrapper_Form {
+  margin: 0 auto;
+  border-radius: 10px;
+  border: 1px solid #2d81e0;
+  padding: 10px;
+  margin-top: 93px;
+  max-width: 328px;
+}
+
+.input {
+  width: 165px;
+  font-size: 5px;
+}
+
+.wrapper_content_form {
+  display: flex;
+}
+
+.wrapper_content_form:not(:last-child) {
+  border-bottom: 1px solid #2d81e0;
+}
+
+.form_words {
+  color: #2d81e0;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: "SFProText-Regular";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  margin-left: 23px;
+  min-width: 110px;
+  align-items: center;
+  padding-bottom: -10px;
+}
+
+.red {
+  border: 1px solid red;
+}
+
+.green {
+  border: 1px solid green;
+}
+
+.btn_form {
+  margin-top: 220px;
+}
+
+.none {
+  display: none;
+}
+
+.wrapper_btn_form {
+  margin-top: 220px;
+  margin: 0 auto;
+  padding: 0 12px;
+  margin-top: 139px;
+  padding: 25px;
+  width: 240px;
+  position: relative;
+}

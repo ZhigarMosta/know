@@ -1,0 +1,21 @@
+.card {
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper_card {
+  border-radius: 10px;
+  border: 1px solid #2d81e0;
+  padding: 10px;
+  max-width: 290px;
+  margin-top: 93px;
+}
+
+.btn_word {
+  margin-top: 220px;
+  margin: 0 auto;
+  padding: 0 12px;
+  margin-top: 189px;
+  margin-bottom: 25px;
+  max-width: 240px;
+}
